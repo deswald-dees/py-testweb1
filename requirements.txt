@@ -1,0 +1,7 @@
+pip
+autopep8
+Flask==3.0.3
+gallery-dl
+gunicorn==22.0.0
+python-dotenv
+Werkzeug==3.0.6
